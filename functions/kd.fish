@@ -1,1 +1,1 @@
-alias kg "kubectl describe"
+alias kd "kubectl describe"
