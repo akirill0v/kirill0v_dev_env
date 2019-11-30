@@ -1,1 +1,1 @@
-set -xg EDITOR emacs
+set -xg EDITOR vim
